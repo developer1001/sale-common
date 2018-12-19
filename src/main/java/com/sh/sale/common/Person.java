@@ -5,8 +5,8 @@ public class Person {
 	private String age;
 	
 	public Person() {
-		this.name = "default name";
-		this.age = "default age";
+		this.name = "default name updated";
+		this.age = "default age updated";
 	}
 	public String getName() {
 		return name;
